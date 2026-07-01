@@ -1,1 +1,12 @@
-
+body{
+    background-color: rgb(121, 255, 210);
+}
+header{
+    background-color: rgb(218, 28, 28);
+}
+main{
+    background-color: rgb(255, 255, 255);
+}
+sectoin{
+    background-color: black;
+}
